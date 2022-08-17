@@ -1,0 +1,24 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Node Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinyarasam/ChatApp_node.git"
+  },
+  "author": "Kinyarasam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kinyarasam/ChatApp_node/issues"
+  },
+  "homepage": "https://github.com/Kinyarasam/ChatApp_node#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  }
+}
